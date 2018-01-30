@@ -1,0 +1,48 @@
+{
+  "name": "tech-marker-native",
+  "version": "1.0.0",
+  "description": "A technical paper collection management system based on vue-ssr native & express & mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ray1121/tech-maker-native.git"
+  },
+  "keywords": [
+    "vue-ssr",
+    "Nodejs",
+    "Express",
+    "Mysql"
+  ],
+  "author": "ray1121",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ray1121/tech-maker-native/issues"
+  },
+  "homepage": "https://github.com/ray1121/tech-maker-native#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "vue": "^2.5.13",
+    "vue-router": "^3.0.1",
+    "vue-server-renderer": "^2.5.13",
+    "vuex": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "chokidar": "^2.0.0",
+    "css-loader": "^0.28.9",
+    "file-loader": "^1.1.6",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.1",
+    "url-loader": "^0.6.2",
+    "vue-loader": "^13.7.0",
+    "vue-style-loader": "^3.1.1",
+    "vue-template-compiler": "^2.5.13",
+    "webpack": "^3.10.0",
+    "webpack-merge": "^4.1.1"
+  }
+}
